@@ -1,0 +1,3 @@
+rootProject.name = 'boot-template'
+
+include 'lib', 'app'
